@@ -1,4 +1,4 @@
-## PREGUNTAS GENERALES (respondidas sin AI)
+## PREGUNTAS GENERALES 
 
 1. **How would you define Machine Learning?**
 
