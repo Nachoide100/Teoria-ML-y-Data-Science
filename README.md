@@ -19,7 +19,7 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 *Conceptos transversales que todo Data Scientist debe dominar.*
 
 -  [**Preguntas generales sobre ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Preguntas_generales.md) ¿Qué es el Machine Learning?
--  [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Entrenar_modelos.md) Entendiendo la forma de entrenarlos
+-  [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/fae614a93dfddcd9f54b73f68c94567dde716ac7/Algoritmos%20de%20ML/Decision_trees.ipynb) Entendiendo la forma de entrenarlos
 
 
 
