@@ -18,8 +18,8 @@ Bienvenido a mi repositorio de consulta técnica. Aquí documento mi proceso de 
 ## 🌐 1. Preguntas Generales
 *Conceptos transversales que todo Data Scientist debe dominar.*
 
-- [ ] [**El Trade-off Sesgo-Varianza:**](enlace-al-archivo.md) ¿Por qué mi modelo no generaliza bien?
-- [ ] [**Regularización L1 y L2:**](enlace-al-archivo.md) Entendiendo Lasso y Ridge.
+- [ ] [**Preguntas generales sobre ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Preguntas_generales.md) ¿Qué es el Machine Learning?
+- [ ] [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Entrenar_modelos.md) Entendiendo la forma de entrenarlos
 - [ ] [**Validación Cruzada (K-Fold):**](enlace-al-archivo.md) Cómo evaluar modelos de forma robusta.
 - [ ] [**Métricas de Evaluación:**](enlace-al-archivo.md) Diferencia entre Precisión, Recall y F1-Score.
 
