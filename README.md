@@ -1,6 +1,6 @@
 # 🧠 ML & Data Science Knowledge Base
 
-Bienvenido a mi repositorio de consulta técnica. Aquí documento mi proceso de aprendizaje, resolviendo dudas fundamentales y avanzadas sobre Ciencia de Datos y Machine Learning.
+Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que surgen de los documentos, libros, papers... sobre Ciencia de Datos y Machine Learning e intento responderlas. **(!! SIN IA !!)**
 
 ---
 
@@ -23,7 +23,7 @@ Bienvenido a mi repositorio de consulta técnica. Aquí documento mi proceso de 
 - [ ] [**Validación Cruzada (K-Fold):**](enlace-al-archivo.md) Cómo evaluar modelos de forma robusta.
 - [ ] [**Métricas de Evaluación:**](enlace-al-archivo.md) Diferencia entre Precisión, Recall y F1-Score.
 
-[⬆️ Volver al inicio](#mapa-de-navegación)
+
 
 ---
 
@@ -33,14 +33,9 @@ Bienvenido a mi repositorio de consulta técnica. Aquí documento mi proceso de 
 *Anatomía de los algoritmos de Machine Learning.*
 
 ### 📈 Regresión y Clasificación
-- [x] [**Support Vector Machines (SVM):**](SVMs.md) ¿Qué es el Kernel Trick y cuándo usarlo?
-- [ ] [**Random Forest:**](enlace-al-archivo.md) Entendiendo el Bagging y los ensambles.
-- [ ] [**XGBoost & Gradient Boosting:**](enlace-al-archivo.md) ¿Por qué son los reyes de Kaggle?
+-  [**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y qué podemos hacer con ellas?
 
-### 🧠 Deep Learning
-- [ ] [**Redes Neuronales:**](enlace-al-archivo.md) El proceso de Backpropagation explicado.
 
-[⬆️ Volver al inicio](#mapa-de-navegación)
 
 ---
 
@@ -49,18 +44,18 @@ Bienvenido a mi repositorio de consulta técnica. Aquí documento mi proceso de 
 ## 📊 3. Estadística y EDA
 *La base científica detrás de los datos.*
 
-- [ ] [**Distribuciones de Probabilidad:**](enlace-al-archivo.md) Normal, Binomial y Poisson.
-- [ ] [**Teorema del Límite Central:**](enlace-al-archivo.md) La importancia de la campana de Gauss.
-- [ ] [**Tratamiento de Outliers:**](enlace-al-archivo.md) ¿Eliminar o transformar?
+-  [**Distribuciones de Probabilidad:**](enlace-al-archivo.md) Normal, Binomial y Poisson.
+-  [**Teorema del Límite Central:**](enlace-al-archivo.md) La importancia de la campana de Gauss.
+-  [**Tratamiento de Outliers:**](enlace-al-archivo.md) ¿Eliminar o transformar?
 
-[⬆️ Volver al inicio](#mapa-de-navegación)
+
 
 ---
 
 ## 🛠️ Cómo usar este repositorio
-Cada enlace te llevará a un archivo detallado (en formato `.md` o `.ipynb`) donde desarrollo la respuesta, incluyo fórmulas matemáticas en LaTeX y, en ocasiones, ejemplos prácticos en Python.
+Cada enlace te llevará a un archivo detallado (en formato `.md` o `.ipynb`) donde desarrollo la respuesta, incluyo fórmulas matemáticas y, en ocasiones, ejemplos prácticos en Python.
 
-**Estado del repositorio:**
-- ✅ : Tema completado y revisado.
-- 🚧 : En construcción.
-- 📖 : Basado en lectura activa de *Hands-On ML* (Aurélien Géron).
+Cualquier pregunta mal respondida o inconclusa no dudéis en comunicármelo. Un saludo!!
+
+[https://www.linkedin.com/in/jos%C3%A9-ignacio-rubio-194471308/]
+
