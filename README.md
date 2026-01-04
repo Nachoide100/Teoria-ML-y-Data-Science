@@ -18,10 +18,8 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 ## 🌐 1. Preguntas Generales
 *Conceptos transversales que todo Data Scientist debe dominar.*
 
-- [ ] [**Preguntas generales sobre ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Preguntas_generales.md) ¿Qué es el Machine Learning?
-- [ ] [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Entrenar_modelos.md) Entendiendo la forma de entrenarlos
-- [ ] [**Validación Cruzada (K-Fold):**](enlace-al-archivo.md) Cómo evaluar modelos de forma robusta.
-- [ ] [**Métricas de Evaluación:**](enlace-al-archivo.md) Diferencia entre Precisión, Recall y F1-Score.
+-  [**Preguntas generales sobre ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Preguntas_generales.md) ¿Qué es el Machine Learning?
+-  [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Entrenar_modelos.md) Entendiendo la forma de entrenarlos
 
 
 
@@ -34,6 +32,7 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 
 ### 📈 Regresión y Clasificación
 -  [**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y qué podemos hacer con ellas?
+-  [**Ensemble Learning and Random Forest:**]([**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Cómo combinamos diferentes modelos)
 
 
 
