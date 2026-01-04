@@ -32,7 +32,7 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 
 ### 📈 Regresión y Clasificación
 -  [**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y qué podemos hacer con ellas?
--  [**Ensemble Learning and Random Forest:**]([**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Cómo combinamos diferentes modelos)
+-  [**Decision Trees:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y cómo los utilizamos?
 
 
 
