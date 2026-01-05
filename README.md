@@ -20,6 +20,8 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 
 -  [**Preguntas generales sobre ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/56a58b8d1059dc221bc5c5f61fdf7890e75fdb47/Conceptos%20Generales/Preguntas_generales.md) ¿Qué es el Machine Learning?
 -  [**Cómo entrenar los modelos de ML:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/fae614a93dfddcd9f54b73f68c94567dde716ac7/Algoritmos%20de%20ML/Decision_trees.ipynb) Entendiendo la forma de entrenarlos
+-  [**Reducción de dimensionalidad:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/d0a60f25b780e4292627f7cf6d9b8adb8f4aeb11/Conceptos%20Generales/Dimensionality_reduction.ipynb) PCA, kPCA, t-SNE, LLE...
+
 
 
 
