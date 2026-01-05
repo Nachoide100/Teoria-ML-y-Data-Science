@@ -34,7 +34,7 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 -  [**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y qué podemos hacer con ellas?
 -  [**Decision Trees:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/fae614a93dfddcd9f54b73f68c94567dde716ac7/Algoritmos%20de%20ML/Decision_trees.ipynb) ¿Qué son y cómo los utilizamos?
 -  [**Random Forest (y Ensemble Learning):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/43a198ce248b0bd74bff9873062f7918c6b800fa/Algoritmos%20de%20ML/Random_forest.ipynb) Sus características y uso. 
-- 
+
 
 
 
