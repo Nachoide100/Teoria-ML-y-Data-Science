@@ -32,11 +32,17 @@ Bienvenido a mi repositorio de aprendizaje. Aquí documento las preguntas que su
 ## 🤖 2. Modelos de Predicción
 *Anatomía de los algoritmos de Machine Learning.*
 
-### 📈 Regresión y Clasificación
+### 📈 Principales modelos
 -  [**Support Vector Machines (SVM):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/ce58d5ef65fa73ff65a5c653eeb4a01d7e2c82f4/Algoritmos%20de%20ML/SVMs.md) ¿Qué son y qué podemos hacer con ellas?
 -  [**Decision Trees:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/fae614a93dfddcd9f54b73f68c94567dde716ac7/Algoritmos%20de%20ML/Decision_trees.ipynb) ¿Qué son y cómo los utilizamos?
 -  [**Random Forest (y Ensemble Learning):**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/43a198ce248b0bd74bff9873062f7918c6b800fa/Algoritmos%20de%20ML/Random_forest.ipynb) Sus características y uso.
 -  [**Aprendizaje No - Supervisado:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/dbaa0bd669f6c6d085debb91973edfacda8f3297/Algoritmos%20de%20ML/Unsupervised_learning_techniques.ipynb) Diferentes algoritmos y su aplicación.
+ ## [**Artificial Neural Networks:**](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/tree/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks) Una visión general.
+  * [Artificial Neural Networks desde 0](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks/Artificial%20Neural%20Networks.ipynb)
+  * [BackPropagation](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks/Backpropagation.ipynb)
+  * [Activation Functions y Vanishing Gradient](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks/Activation_functions_and_Vanishing.ipynb)
+  * [Modelos de regresión con Keras](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks/Regression-with-Keras.ipynb)
+  * [Modelos de clasificación con Keras](https://github.com/Nachoide100/Teoria-ML-y-Data-Science/blob/5cd0519654f950f38883032139843d8605efb08b/Algoritmos%20de%20ML/Artificial%20Neural%20Networks/Classification-with-Keras.ipynb)
   
 
 
